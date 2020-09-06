@@ -1,0 +1,13 @@
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.exe
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.deps.json
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.runtimeconfig.json
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.runtimeconfig.dev.json
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.dll
+C:\Users\zombie\source\repos\Sizeof\Sizeof\bin\Debug\netcoreapp3.1\Sizeof.pdb
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.csprojAssemblyReference.cache
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.AssemblyInfoInputs.cache
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.AssemblyInfo.cs
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.csproj.CoreCompileInputs.cache
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.dll
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.pdb
+C:\Users\zombie\source\repos\Sizeof\Sizeof\obj\Debug\netcoreapp3.1\Sizeof.genruntimeconfig.cache
